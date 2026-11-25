@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>EatWellStories</title>
+  <link>https://eatwellstories.com/</link>
+  <description>Simple, balanced healthy-eating guides and everyday recipes</description>
+  <language>en-gb</language>
+  <atom:link href="https://eatwellstories.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>A List of 50 Super Healthy Foods</title>
+    <link>https://eatwellstories.com/articles/50-super-healthy-foods/</link>
+    <guid>https://eatwellstories.com/articles/50-super-healthy-foods/</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Browse 50 super healthy foods — vegetables, fruits, proteins, whole grains and more — with simple tips to build balanced meals every day.</description>
+    <category>Ingredients</category>
+  </item>
+  <item>
+    <title>Are Tomatoes Good for You? Benefits, Nutrition and Ways to Enjoy Them</title>
+    <link>https://eatwellstories.com/articles/are-tomatoes-good-for-you/</link>
+    <guid>https://eatwellstories.com/articles/are-tomatoes-good-for-you/</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Are tomatoes good for you? Discover their nutrients, lycopene benefits, raw vs cooked differences and easy ways to add them to balanced meals.</description>
+    <category>Ingredients</category>
+  </item>
+  <item>
+    <title>12 of the Healthiest Foods to Eat for Breakfast</title>
+    <link>https://eatwellstories.com/articles/healthiest-foods-for-breakfast/</link>
+    <guid>https://eatwellstories.com/articles/healthiest-foods-for-breakfast/</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Discover 12 healthy breakfast foods packed with nutrients, plus simple combinations and practical tips for building a balanced morning meal.</description>
+    <category>Breakfast</category>
+  </item>
+  <item>
+    <title>Easy Dinner Ideas – Healthier Families</title>
+    <link>https://eatwellstories.com/articles/easy-dinner-ideas/</link>
+    <guid>https://eatwellstories.com/articles/easy-dinner-ideas/</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Discover easy dinner ideas for healthier family meals, with quick, delicious recipes and practical tips to make family dinners simple and nutritious.</description>
+    <category>Dinners</category>
+  </item>
+  <item>
+    <title>Are Eggs Good for You? Benefits, Nutrition and Easy Ways to Cook Them</title>
+    <link>https://eatwellstories.com/articles/are-eggs-good-for-you/</link>
+    <guid>https://eatwellstories.com/articles/are-eggs-good-for-you/</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Are eggs good for you? Egg nutrition, evidence-based benefits, cooking methods and simple ways to enjoy eggs daily.</description>
+    <category>Ingredients</category>
+  </item>
+  <item>
+    <title>20 Healthy Snack Ideas That Are Filling and Nutritious</title>
+    <link>https://eatwellstories.com/articles/healthy-snack-ideas/</link>
+    <guid>https://eatwellstories.com/articles/healthy-snack-ideas/</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Discover 20 healthy snack ideas that are filling and nutritious, with protein and fibre combos, easy swaps for cravings and work-ready snacks.</description>
+    <category>Snacks</category>
+  </item>
+  <item>
+    <title>Healthy Lunch Ideas for Work: 15 Quick Packed Lunches You Can Prep Ahead</title>
+    <link>https://eatwellstories.com/articles/healthy-lunch-ideas-for-work/</link>
+    <guid>https://eatwellstories.com/articles/healthy-lunch-ideas-for-work/</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Find 15 healthy lunch ideas for work: no-cook boxes, reheat-friendly meals and plant-based bowls, plus a simple weekly prep system.</description>
+    <category>Lunches</category>
+  </item>
+  <item>
+    <title>Mediterranean Diet for Beginners: Benefits, Foods to Eat and a Simple Starter Plan</title>
+    <link>https://eatwellstories.com/articles/mediterranean-diet-for-beginners/</link>
+    <guid>https://eatwellstories.com/articles/mediterranean-diet-for-beginners/</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Beginner's guide to the Mediterranean diet: evidence-based benefits, foods to eat and limit, a 7-day starter plan, and simple swaps to start today.</description>
+    <category>Diet Guides</category>
+  </item>
+</channel>
+</rss>
